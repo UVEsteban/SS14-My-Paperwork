@@ -1,0 +1,70 @@
+[logo]
+[color=#5b97bc]░░██░░[/color] [color=#cb0000]░█▄▄█░[/color]
+[color=#5b97bc]██████[/color] [color=#cb0000]██▄▄██[/color]
+[color=#5b97bc]░░██░░[/color] [color=#cb0000]▀█▄▄█▀[/color]
+
+[head=1]CIRO'S GUIDE TO BRIGMED[/head]
+[head=2]Subject: How to Patch Everything and Don't Die Trying[/head]
+[head=3]By: Ciro Kolmogorov Malet[/head]
+───────────────────────────────────────
+
+This document defines the priority-based chemical production order for Brig Medical operations.  
+Focus: rapid treatment of the most frequent damage types using minimal, reliable recipes.  
+Optimization is secondary to speed, availability, and ChemMaster workflow stability.
+
+───────────────────────────────────────
+[head=3]CORE MEDICATIONS (HIGH PRIORITY)[/head]
+
+[color=#ffaa00][bold]WOUNDGLUE[/bold][/color] — Brute Damage | Dose: 15u  
+- Reagents: [bold]Oxygen (1) | Sugar (1) | Carbon (4)[/bold]  
+- Notes: Continuous production; keep at top of ChemMaster
+
+[color=#731024][bold]CRITPACK[/bold][/color] — Critical Asphyxiation | Dose: 20u  
+- Reagents: [bold]Oxygen (1) | Sugar (1) | Carbon (1)[/bold]  
+- Notes: Speed prioritized over optimization
+
+[color=#215263][bold]FIRE FOR DUMMIES[/bold][/color] — Burns | Dose: 10u  
+- Reagents: [bold]Silicon (1) | Carbon (1) | Oxygen (2) | Phosphorus (2)[/bold]
+
+[color=#3a1d8a][bold]POISONOFF[/bold][/color] — Poison / Toxins | Dose: 20u  
+- Reagents: [bold]Silicon (1) | Nitrogen (1) | Potassium (1)[/bold]
+
+[color=#00e5ff][bold]CRY AWAY[/bold][/color] - Always have some in case people get minor boo boos
+Reagents: [bold] Inaprovaline (1) Dylovene (1)
+───────────────────────────────────────
+[head=3]ADVANCED MEDICATIONS (AFTER CORE STOCK)[/head]
+
+[color=#ff3636][bold]NO MORE SMASH[/bold][/color] — Severe Blunt Trauma | Dose: 10u  
+- Reagents: [bold]Lithium (27) | Sugar (30) | Bicaridine (30)[/bold]
+
+[color=#b9bf93][bold]HOW TO PATCH A CHEESE[/bold][/color] — Piercing | Dose: 11u  
+- Reagents: [bold]HYDROXY (50%) | Bicaridine (50%)[/bold]
+
+[color=#283332][bold]KNIFE AWARENESS[/bold][/color] — Slash / Cut Trauma | Dose: 12u  
+- Reagents: [bold]BENZENE (50%) | Bicaridine (50%)[/bold]
+
+[color=#ff7db5][bold]MY EX HEARTH[/bold][/color] — Cold / Rapid Temperature | Advanced  
+- Step 1: [bold]Iron (1) | Silicon (1)[/bold], heat → Fersilicite  
+- Step 2: [bold]Copper (2) | Plasma (1)[/bold]  
+- Notes: Rapid cooling / hypothermia
+
+───────────────────────────────────────
+[head=3]SUPPORT CHEMICALS[/head]
+
+Advice: Use **saline** instead of bloodpacks to save resources; birds cannot process saline, so reserve blood only for avian patients.  
+
+[color=#0064C8][bold]SALINE[/bold][/color] — Blood Replacement / Hydration  
+- Reagents: [bold]Chlorine (1) | Sodium (1) | Water (8)[/bold]  
+- Notes: Standard patients receive saline; birds receive blood
+
+[color=#ffffff][bold]HYDROXY[/bold][/color] — Base Reagent for PUNC  
+- Reagents: [bold]Hydrogen (1) | Oxygen (1)[/bold]  
+- Notes: Mixed 1:1 with Bicaridine → HOW TO PATCH A CHEESE (11u)
+
+[color=#ffffff][bold]BENZENE[/bold][/color] — Base Reagent for LACERINOL  
+- Reagents: [bold]Carbon (1) | Hydrogen (1)[/bold]  
+- Notes: Mixed 1:1 with Bicaridine → KNIFE AWARENESS (11u)
+
+───────────────────────────────────────
+Sincerely,  
+Brig Medical Chemistry Reference
