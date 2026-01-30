@@ -5,7 +5,7 @@
 
 [color=red][italics]This guide is intended for a 150u beaker[/italics][/color]
 
-[color=#cb0000]▬▬▬▬▬▬▬▬▬▬▬[/color][head=2]BASIC MEDICINE[/head][color=#cb0000]▬▬▬▬▬▬▬▬▬▬▬[/color]
+[color=#cb0000]▬▬▬▬▬▬▬▬▬[/color][head=2]BASIC MEDICINE[/head][color=#cb0000]▬▬▬▬▬▬▬▬▬[/color]
 [bold][color=#731024]──────═════ INAPROV ═════──────[/color][check]
 [color=red]50u[/color]
 [bold] OXI x1 SUG x1 CAR x1[/bold]
@@ -38,7 +38,8 @@
 [color=red]15u[/color]
 [bold] CHL x1 SOD x1[/bold]
 [color=blue] FILL WITH WATER[/color]
-[color=#cb0000]▬▬▬▬▬▬▬▬▬▬▬[/color][head=3]BRUTE MEDICATION[/head][color=#cb0000]▬▬▬▬▬▬▬▬▬▬▬[/color]
+
+[color=#cb0000]▬▬▬▬▬▬▬▬▬[/color][head=3]BRUTE MEDICATION[/head][color=#cb0000]▬▬▬▬▬▬▬▬▬[/color]
 [bold][color=#ff3636]──────═════ BRUIZ ═════────── 10u[/color][/bold][check]
 [color=red]45u[/color]
 [bold] LIT x1[/bold]
@@ -49,14 +50,15 @@
 [bold] OXI x1 HYD x1[/bold]
 [color=red]50u[/color]
 [color=#ffaa00] BICAR [/color] x1[/bold]
-[bold][color=#b9bf93]──────═════ PUNCT ═════────── 11u[/color][/bold]
+[bold][color=#b9bf93]──────═════ PUNCT ═════────── 11u[/color][/bold][check]
 [color=red]50u[/color]
 [bold] CAR x1 HYD x1[/bold]
 [color=red]50u[/color]
-[color=#ffaa00] BICAR [/color] x1[/bold]
-[color=#cb0000]▬▬▬▬▬▬▬▬▬▬▬[/color][head=3]BURN MEDICINE[/head][color=#cb0000]▬▬▬▬▬▬▬▬▬▬▬[/color]
-[bold][color=#ff7db5]──────═════ LEPO ═════────── NA[/color][/bold]
-[color=orange]HEAT[/color]
+[bold][color=#ffaa00] BICAR [/color] x1[/bold]
+
+[color=#cb0000]▬▬▬▬▬▬▬▬▬[/color][head=3]BURN MEDICINE[/head][color=#cb0000]▬▬▬▬▬▬▬▬▬[/color]
+[bold][color=#ff7db5]──────═════ LEPO ═════────── [/color][/bold][check]
+[color=red]HEAT[/color]
 [color=purple]PLASMA CAT[/color]
 [color=red]25u[/color]
 [bold] IRO x1 SIL x1 COP x2[/bold]
@@ -71,7 +73,8 @@ CAR x1[/bold]
 [color=red]25u[/color]
 [bold] CAR x1 SIL x3[/bold]
 [color=#ff7db5] LEPO [/color] x1
-[color=#cb0000]▬▬▬▬▬▬▬▬▬▬▬[/color][head=3]OTHER MEDICINE[/head][color=#cb0000]▬▬▬▬▬▬▬▬▬▬▬[/color]
+
+[color=#cb0000]▬▬▬▬▬▬▬▬▬[/color][head=3]OTHER MEDICINE[/head][color=#cb0000]▬▬▬▬▬▬▬▬▬[/color]
 [bold][color=#c8ff75]──────═════ PHALANX ═════──────[/color][/bold][check]
 [color=green]CENTRIFUGE ETHANOL FROM WELDING FUEL[/color]
 [color=red]30u[/color]
@@ -104,7 +107,7 @@ CHEM MASTER TIME!
 [bold] WELDING FUEL x4 HYD x1 CAR x1 OXI x3[/bold] x1
 [color=red]50u[/color]
 [bold] OXI x2 HYD x1[/bold x2
-[color=#0091ff]▬▬▬▬▬▬▬▬▬▬▬[/color][head=3]CRYOGENIC[/head][color=#0091ff]▬▬▬▬▬▬▬▬▬▬▬[/color]
+[color=#0091ff]▬▬▬▬▬▬▬▬▬[/color][head=3]CRYOGENIC[/head][color=#0091ff]▬▬▬▬▬▬▬▬▬[/color]
 [bold][color=#0091ff]██ CRYOX █ NA[/color][/bold]
 [bold][color=#86a5bd]██ NECROSOL █ NA[/color][/bold]
 [bold][color=#89f77f]██ ALOXADONE █ NA[/color][/bold]
