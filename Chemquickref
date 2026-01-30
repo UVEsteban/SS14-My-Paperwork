@@ -48,7 +48,7 @@
 [bold][color=#0064C8]█ SALINE █[/color][/bold]
 [color=red]HEAT[/color]
 [color=red]15u[/color]
-[bold] CHO x1 SOD x1[/bold]
+[bold] CHL x1 SOD x1[/bold]
 [color=blue] FILL WITH WATER[/color]
 
 [head=3]BRUTE MEDICATION[/head]  [color=#cb0000]██████████████[/color]
@@ -74,26 +74,61 @@
 [head=3]ADVANCED BURN MEDICINE[/head]  [color=#cb0000]██████████████[/color]
 
 [bold][color=#ff7db5]██ LEPO █ NA[/color][/bold]
-[color=red]HEAT[/color]
+[color=orange]HEAT[/color]
 [color=purple]PLASMA CAT[/color]
 [color=red]25u[/color]
 [bold] IRO x1 SIL x1 COP x2[/bold]
 [color=purple]REMOVE PLASMA[/color]
 
 [bold][color=#aa4308]██ PYRA █ 15u[/color][/bold]
-[color=red]HEAT[/color]
+[color=orange]HEAT[/color]
+[color=red]50u[/color]
+[bold][color=#215263]█ DERMA █[/color] x1
+[color=#ff7db5]██ LEPO █[/color] x1
+CAR x1[/bold]
 
 [bold][color=#8147ff]██ INSUZINE █ 12u[/color][/bold]
+[color=red]25u[/color]
+[bold] CAR x1 SIL x3[/bold]
+[color=#ff7db5]██ LEPO █[/color] x1
 
 [head=3]OTHER MEDICINE[/head]  [color=#cb0000]██████████████[/color]
 
 [bold][color=#c8ff75]██ PHALANX █ NA, deals radiation damage[/color][/bold]
+[color=green]CENTRIFUGE ETHANOL FROM WELDING FUEL[/color]
+[color=red]30u[/color]
+[color=green]ETHANOL[/color]
+[color=red]10u[/color]
+[bold] RAD x1 PHO x1 CHLx1[/bold]
+[color=red]15u[/color]
+[bold] RAD x1 [color=#3a1d8a]█ DYLO █[/color] x1[/bold]
 
 [bold][color=#aa4308]██ SIGY █ 15u[/color][/bold]
+[color=red]HEAT[/color]
+[bold]SODIUM CARBONATE[/bold]
+[color=red]5u[/color]
+[bold] HYD x3 NIT x1 CHL x2 SOD x2 CAR x4 OXI x4[/bold]
+[bold]SODIUM HYDROXIDE[/bold]
+[color=red]20u[/color]
+[bold] HYD x1 OXI x1 SOD x2[/bold]
+[bold][color=#aa4308]NOW THE ACTUAL MIX[/color][/bold]
+[color=red]15u[/color]
+[bold]SODIUM HYDROXIDE x2 SODIUM CARBONATE x2 WATER x2[/bold]
+[bold] SYL x1 CAR x1 SUG x2 WATER x2[/bold]
 
 [bold][color=#404040]██ OCULINE █ NA[/color][/bold]
+[color=red]30u[/color]
+[bold] Table Salt x1 [/bold]
+[bold] OXI x1 HYD x1 BLOOD x1[/bold]
 
 [bold][color=#a2cfca]██ EPINEPHRINE █ 20u[/color][/bold]
+CHEM MASTER TIME!
+[color=red]25u[/color]
+[bold] OXI x1 HYD x3 CAR x2[/bold] x1
+[color=red]15u[/color]
+[bold] WELDING FUEL x4 HYD x1 CAR x1 OXI x3[/bold] x1
+[color=red]50u[/color]
+[bold] OXI x2 HYD x1[/bold x2
 
 [bold][color=#f4dab8]█ SIDERLAC █[/color][/bold]
 
