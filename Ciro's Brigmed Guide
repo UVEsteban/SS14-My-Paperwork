@@ -1,71 +1,139 @@
-[logo]
-[color=#5b97bc]░░██░░[/color] [color=#cb0000]░█▄▄█░[/color]
-[color=#5b97bc]██████[/color] [color=#cb0000]██▄▄██[/color]
-[color=#5b97bc]░░██░░[/color] [color=#cb0000]▀█▄▄█▀[/color]
 
-[head=1]CIRO'S GUIDE TO BRIGMED[/head]
-[head=2]Subject: How to Ducktape Bodies[/head]
-[head=3]By: Ciro Volkoville Malet[/head]
-───────────────────────────────────────
+░░██░░
+██████
+░░██░░
+[color=pink]░░██░░                            ░░██░░
+[color=pink]██████ [/color]▬▬▬▬▬ BRUTE MEDICINE ▬▬▬▬▬ [color=pink]██████
+[color=pink]░░██░░                            ░░██░░[/color]
 
-This document defines the priority-based chemical production order for Brig Medical operations.  
-Focus: rapid treatment of the most frequent damage types using minimal, reliable recipes.  
-Optimization is secondary to speed, availability, and ChemMaster workflow stability.
 
-───────────────────────────────────────
-[head=3]CORE MEDICATIONS (HIGH PRIORITY)[/head]
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬ BASIC MEDICINE ▬▬▬▬▬▬▬▬▬▬▬▬▬
+▬▬▬▬▬ BRUTE MEDICINE ▬▬▬▬▬
+                            
+▬▬▬▬▬▬ BASIC MEDICINE ▬▬▬▬ 
+─────══ DERMA ══───── ─────══ DYLO ══──────
+[mono]
+[color=lightblue]
+███   ███
+███   ███ [/color][head=2] Walk, Don't Spill[/head][color=lightblue]
+██  █  ██ [/color][head=3] Chemical quickreference[/head][color=lightblue]
+█ █████ █ [/color][bolditalic] by The Hound of Voskoville[/bolditalic][color=lightblue]
+██     ██ [/color][italic] Ciro V. M. - The Mute Corpsman [/italic][color=lightblue]
+ ███████ [/color]
 
-[color=#ffaa00][bold]WOUNDGLUE[/bold][/color] — Brute Damage | Dose: 15u  
-- Reagents: [bold]Oxygen (1) | Sugar (1) | Carbon (4)[/bold]  
-- Notes: Continuous production; keep at top of ChemMaster
+[color=#5b97bc]░░[color=#cb0000]██[/color]░░[/color]                            [color=#5b97bc]░░[color=#cb0000]██[/color]░░[/color]
+[color=#cb0000]██████[/color] ▬▬▬▬▬▬ BASIC MEDICINE ▬▬▬▬ [color=#cb0000]██████[/color]
+[color=#5b97bc]░░[color=#cb0000]██[/color]░░[/color]                            [color=#5b97bc]░░[color=#cb0000]██[/color]░░[/color]
 
-[color=#731024][bold]CRITPACK[/bold][/color] — Critical Asphyxiation | Dose: 20u  
-- Reagents: [bold]Oxygen (1) | Sugar (1) | Carbon (1)[/bold]  
-- Notes: Speed prioritized over optimization
+          [/mono][check][mono]                   [/mono][check][mono]          
+[color=#731024]────══ INAPROV ══────[/color] [color=#ffaa00]─────══ BICAR ══─────[/color]
+░░[color=green]Airloss[/color] when CRIT░░ ░░[color=green]Brute[/color]░░░░░░░░░░░░░░
+░░░░N.A.░░░░░░░░░░░░░ ░░░░15u░░░░░░░░░░░░░░
+░░░░Beaker:50u░░░░░░░ ░░░░Beaker:25u░░░░░░░
+OXI(1)░SUG(1)░CAR(1)░ ░OXI(1)░SUG(1)░CAR(4)
+░░░░░Don't DYLO░░░░░░ ░Don't Advance Brute░
 
-[color=#215263][bold]FIRE FOR DUMMIES[/bold][/color] — Burns | Dose: 10u  
-- Reagents: [bold]Silicon (1) | Carbon (1) | Oxygen (2) | Phosphorus (2)[/bold]
+          [/mono][check][mono]                   [/mono][check][mono]   
+[color=#215263]─────══ DERMA ══─────[/color] [color=#3a1d8a]─────══ DYLO ══──────[/color]
+░░Basic [color=green]Burn[/color]░░░░░░░░░ ░░[color=green]Poison[/color]░░░░░░░░░░░░░
+░░░░10u░░░░░░░░░░░░░░ ░░░░20u░░░░░░░░░░░░░░
+░░░░Beaker:25u░░░░░░░ ░░░░Beaker:50u░░░░░░░
+SIL(1) CAR(1)░░░░░░░░ ░SIL(1) NIT(1) POT(1)
+░OXI(2) PHO(2)░░░░░░░ ░Don't INAP░░░░░░░░░░
 
-[color=#3a1d8a][bold]POISONOFF[/bold][/color] — Poison / Toxins | Dose: 20u  
-- Reagents: [bold]Silicon (1) | Nitrogen (1) | Potassium (1)[/bold]
+          [/mono][check][mono]                   [/mono][check][mono]   
+[color=#00e5ff]─────══ TRICO ══───── [/color][color=#4da0bd]─────══ DEX+ ══──────[/color]
+░░[color=green]Baby boo boos[/color]░░░░░░ ░░[color=green]Airloss-Bloodloss[/color]░░
+░░░░N.A.░░░░░░░░░░░░░ ░░░░25u░░░░░░░░░░░░░░
+░░░░Beaker:25u░░░░░░░ ░░░░Beaker:50u░░[color=purple]▼P[/color]░░░
+OXI(1) SUG(1) CAR(1)░ ░OX(1)░░░░░░░░░░░░░░░
+SIL(1) NIT(1) POT(1)░ ░[color=purple]▲P[/color] CAR(1) IRO(1)░░░░
+░░Use it like candy░░ ░[color=red]WARNING DON'T BIRD![/color]░
 
-[color=#00e5ff][bold]CRY AWAY[/bold][/color] - Always have some in case people get minor boo boos
-Reagents: [bold] Inaprovaline (1) Dylovene (1)
-───────────────────────────────────────
-[head=3]ADVANCED MEDICATIONS (AFTER CORE STOCK)[/head]
+          [/mono][check][mono]                   [/mono][check][mono]   
+[color=#bd5902]─────══ ARITH ══─────[/color] [color=#0064C8]─────══ SALINE ══────[/color]
+░░[color=green]Radiation[/color]-[color=red]Brute[/color]░░░░ ░░[color=green]Boodloss[/color]░░░░░░░░░░
+░░░░N.A.░░░░░░░░░░░░░ ░░░░N.A.░░░░░░░░░░░░░
+░░░░Beaker:10u░░░░░░░ ░░░░Beaker:15u░[color=orange]∆ HOT[/color]░
+SIL(1) NIT(1) POT(1)░ ░CHL(1) SOD(1)░░░░░░░
+RAD(3) HYD(6)░░░░░░░░ ░COMPLETE WITH [color=blue]WATER[/color]░
+░░░░░BE CAREFULL░░░░░ ░[color=red]WARNING DON'T BIRD![/color]░
 
-[color=#ff3636][bold]NO MORE SMASH[/bold][/color] — Severe Blunt Trauma | Dose: 10u  
-- Reagents: [bold]Lithium (27) | Sugar (30) | Bicaridine (30)[/bold]
 
-[color=#b9bf93][bold]HOW TO PATCH A CHEESE[/bold][/color] — Piercing | Dose: 11u  
-- Reagents: [bold]HYDROXY (50%) | Bicaridine (50%)[/bold]
+[color=#cb0000]▬▬▬▬▬▬▬▬▬[/color][head=3]BRUTE MEDICATION[/head][color=#cb0000]▬▬▬▬▬▬▬▬▬[/color]
+[bold][color=#ff3636]──────═════ BRUIZ ═════────── 10u[/color][/bold][check]
+[color=red]45u[/color]
+[bold] LIT x1[/bold]
+[color=red]50u[/color]
+[bold] SUG x1 [color=#ffaa00] BICAR [/color] x1[/bold]
+[bold][color=#283332]──────═════ LACER ═════────── 12u[/color][/bold][check]
+[color=red]25u[/color]
+[bold] OXI x1 HYD x1[/bold]
+[color=red]50u[/color]
+[color=#ffaa00] BICAR [/color] x1[/bold]
+[bold][color=#b9bf93]──────═════ PUNCT ═════────── 11u[/color][/bold][check]
+[color=red]50u[/color]
+[bold] CAR x1 HYD x1[/bold]
+[color=red]50u[/color]
+[bold][color=#ffaa00] BICAR [/color] x1[/bold]
 
-[color=#283332][bold]KNIFE AWARENESS[/bold][/color] — Slash / Cut Trauma | Dose: 12u  
-- Reagents: [bold]BENZENE (50%) | Bicaridine (50%)[/bold]
+[color=#cb0000]▬▬▬▬▬▬▬▬▬[/color][head=3]BURN MEDICINE[/head][color=#cb0000]▬▬▬▬▬▬▬▬▬[/color]
+[bold][color=#ff7db5]──────═════ LEPO ═════────── [/color][/bold][check]
+[color=red]HEAT[/color]
+[color=purple]PLASMA CAT[/color]
+[color=red]25u[/color]
+[bold] IRO x1 SIL x1 COP x2[/bold]
+[color=purple]REMOVE PLASMA[/color]
+[bold][color=#aa4308]──────═════ PYRA ═════────── 15u[/color][/bold][check]
+[color=orange]HEAT[/color]
+[color=red]50u[/color]
+[bold][color=#215263] DERMA [/color] x1
+[color=#ff7db5] LEPO [/color] x1
+CAR x1[/bold]
+[bold][color=#8147ff]──────═════ INSUZINE ═════────── 12u[/color][/bold][check]
+[color=red]25u[/color]
+[bold] CAR x1 SIL x3[/bold]
+[color=#ff7db5] LEPO [/color] x1
 
-[color=#ff7db5][bold]MY EX HEARTH[/bold][/color] — Cold / Rapid Temperature | Advanced  
-- Step 1: [bold]Iron (1) | Silicon (1)[/bold], heat → Fersilicite  
-- Step 2: [bold]Copper (2) | Plasma (1)[/bold]  
-- Notes: Rapid cooling / hypothermia
-- +1 KELO + 1 SIL for Insu
+[color=#cb0000]▬▬▬▬▬▬▬▬▬[/color][head=3]OTHER MEDICINE[/head][color=#cb0000]▬▬▬▬▬▬▬▬▬[/color]
+[bold][color=#c8ff75]──────═════ PHALANX ═════──────[/color][/bold][check]
+[color=green]CENTRIFUGE ETHANOL FROM WELDING FUEL[/color]
+[color=red]30u[/color]
+[color=green]ETHANOL[/color]
+[color=red]10u[/color]
+[bold] RAD x1 PHO x1 CHLx1[/bold]
+[color=red]15u[/color]
+[bold] RAD x1 [color=#3a1d8a] DYLO [/color] x1[/bold]
+[bold][color=#aa4308]──────═════ SIGY ═════────── 15u[/color][/bold][check]
+[color=orange]HEAT[/color]
+[bold]SODIUM CARBONATE[/bold]
+[color=red]5u[/color]
+[bold] HYD x3 NIT x1 CHL x2 SOD x2 CAR x4 OXI x4[/bold]
+[bold]SODIUM HYDROXIDE[/bold]
+[color=red]20u[/color]
+[bold] HYD x1 OXI x1 SOD x2[/bold]
+[bold][color=#aa4308]NOW THE ACTUAL MIX[/color][/bold]
+[color=red]15u[/color]
+[bold]SODIUM HYDROXIDE x2 SODIUM CARBONATE x2 WATER x2[/bold]
+[bold] SYL x1 CAR x1 SUG x2 WATER x2[/bold]
+[bold][color=#404040]──────═════ OCULINE ═════────── NA[/color][/bold][check]
+[color=red]30u[/color]
+[bold] Table Salt x1 [/bold]
+[bold] OXI x1 HYD x1 BLOOD x1[/bold]
+[bold][color=#a2cfca]──────═════ EPINEPHRINE ═════────── 20u[/color][/bold][check]
+CHEM MASTER TIME!
+[color=red]25u[/color]
+[bold] OXI x1 HYD x3 CAR x2[/bold] x1
+[color=red]15u[/color]
+[bold] WELDING FUEL x4 HYD x1 CAR x1 OXI x3[/bold] x1
+[color=red]50u[/color]
+[bold] OXI x2 HYD x1[/bold x2
+[color=#0091ff]▬▬▬▬▬▬▬▬▬[/color][head=3]CRYOGENIC[/head][color=#0091ff]▬▬▬▬▬▬▬▬▬[/color]
+[bold][color=#0091ff]██ CRYOX █ NA[/color][/bold]
+[bold][color=#86a5bd]██ NECROSOL █ NA[/color][/bold]
+[bold][color=#89f77f]██ ALOXADONE █ NA[/color][/bold]
 
-───────────────────────────────────────
-[head=3]SUPPORT CHEMICALS[/head]
-
-Advice: Use **saline** instead of bloodpacks to save resources; birds cannot process saline, so reserve blood only for avian patients.  
-
-[color=#0064C8][bold]SALINE[/bold][/color] — Blood Replacement / Hydration  
-- Reagents: [bold]Chlorine (1) | Sodium (1) | Water (8)[/bold]  
-- Notes: Standard patients receive saline; birds receive blood
-
-[color=#ffffff][bold]HYDROXY[/bold][/color] — Base Reagent for PUNC  
-- Reagents: [bold]Hydrogen (1) | Oxygen (1)[/bold]  
-- Notes: Mixed 1:1 with Bicaridine → HOW TO PATCH A CHEESE (11u)
-
-[color=#ffffff][bold]BENZENE[/bold][/color] — Base Reagent for LACERINOL  
-- Reagents: [bold]Carbon (1) | Hydrogen (1)[/bold]  
-- Notes: Mixed 1:1 with Bicaridine → KNIFE AWARENESS (11u)
-
-───────────────────────────────────────
+Sincerely,  
+The Hound of Volkoville
 Sincerely,  
 The Hound of Volkoville
