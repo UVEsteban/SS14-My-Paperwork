@@ -1,25 +1,26 @@
 [mono]
 [color=red]
-      ████████████████████      
-  ████████████████████████████  
-  ██████████        ██████████  
-████████████        ████████████
-████████████        ████████████
-████████████        ████████████
-████                        ████
-████                        ████
-████                        ████
-████                        ████
-████████████        ████████████
-████████████        ████████████
-████████████        ████████████
-  ██████████        ██████████  
-  ████████████████████████████  
-      ████████████████████       
+        ████████████████████      
+    ████████████████████████████  
+    ██████████        ██████████  
+  ████████████        ████████████
+  ████████████        ████████████
+  ████████████        ████████████
+  ████                        ████
+  ████                        ████
+  ████                        ████
+  ████                        ████
+  ████████████        ████████████
+  ████████████        ████████████
+  ████████████        ████████████
+    ██████████        ██████████  
+    ████████████████████████████  
+        ████████████████████       
 
-[head=1]YESM THAT IS NOT KETCHUP[/head]
+[head=1]YES THAT IS NOT KETCHUP[/head]
 [/color][head=3]BRIGMED RULES[/head][color=red]
-[head=2]I AM MUTE, PLEASE FOLLOW MY INSTRUCTIONS[/head][/color]
+
+[head=3]I AM MUTE, PLEASE FOLLOW MY INSTRUCTIONS[/head][/color]
 [italic]Ciro V. M. – The Mute Corpsman[/italic]
 
 ──────────────────────────────────────────
@@ -30,7 +31,7 @@
 ░▀▄▄▀░ [italic] If you don't understand just wait untill I can write something for you, don't be mean[/italic]
 [color=brown]
 ░████░ 
-░▀███░ [/color][head=3] If I guide you to the door [/head][color=brown]
+░[color=yellow]█[/color]███░ [/color][head=3] If I guide you to the door [/head][color=brown]
 ░████░ [/color][head=3]      LEAVE IMMEDIATELY [/head]
 
 ░░▄█░░ 
@@ -39,7 +40,7 @@
 [color=red]
 ██  ██ 
        [/color][head=3] Only I give medical orders here. [/head][color=red]
-██  ██ [/color]
+██  ██ [/color][italic] If I put a body into the morgue is for a reason, don't open the morgue or interrupt me.[/italic]
 [color=red]
 ▀▄░░▄▀ 
 ░░██░░ [/color][head=3] DO NOT RUSH ME[/head][color=red]
@@ -50,51 +51,54 @@
 ███   ███
 ███   ███ 
 ██  █  ██ 
-█ █████ █ [/color][head=2] SUPPLIES [/head][color=lightblue]
-██     ██ 
+█ █████ █ [/color][color=orange][head=2] SUPPLY MANAGEMENT [/color][/head][color=lightblue]
+██     ██ [/color][color=red][head=2] Don't mess with the meds [/color][/head][color=lightblue]
 █████████ 
 [/color]
+[italic] The use of patches is a personal preference, they are easy to use, you can't spill them and animals can't drink it[/italic]
+
 [color=#5b97bc]
 ░░██░░ 
 ██████ [/color][head=3] Patches and topicals are tracked. [/head][color=#5b97bc]
 ░░██░░ [/color][head=3] [color=red]ASK BEFORE TAKING[/color][/head]
+[italic] Taking meds without informing me will put others in danger, track and availability will make the difference during a real emergency
 
 ▄████▄ 
 █▀██▀█ [head=3] Topicals are for [bold][color=red]DEAD[/color][/bold] patients only.[/head]
-░▀██▀░ 
+░▀██▀░ [italic] The lack of resources at brigmed will force me to walk to medbay in case of an emergency, if you have your own topicals saving them for dead people will be a better use than patching your baby boo boos[/italic]
 [color=#777b7e]
 ░█▀▀█░ 
 ▀████▀ [/color][head=3] Do not waste medical supplies.[/head][color=#777b7e]
-░████░[/color]
+░████░[/color][italic] Sometimes you just need some trico for your baby boo boos, be patient and wait your turn[/italic]
 
 ──────────────────────────────────────────
 [color=yellow]
-  ▐███▌ 
-  ██ ██   
- ▐██ ██▌  [/color][head=2] PRIORITY [/head][color=yellow]
- ███████  [/color][italic]If multiple emergencies happen at[/italic][color=yellow]
-▐███▄███▌ [/color][italic]the same time the attention priority will be[/italic]
+    █  
+   █ █   
+  ██ ██  [/color][head=2] PRIORITY [/head][color=yellow]
+ ███▄███ [/color][italic]If multiple emergencies happen at[/italic][color=yellow]
+████▄████[/color][italic]the same time the attention priority will be[/italic]
 
 [color=#1b67a5]
 ░░██░░ 
 ▀████▀ [head=3] 1) COMMAND [color=red] HIGH PRIORITY[/color][/head]
-▄█▀▀█▄ [/color]
+▄█▀▀█▄ [/color] [italic] Captain > HOS > Other heads
 [color=#cb0000]
 ░█▄▄█░ 
 ██▄▄██ [head=3] 2) SECURITY [color=red] HIGH PRIORITY[/color][/head]
-▀█▄▄█▀[/color]
+▀█▄▄█▀[/color] Warden > Officers and Det > Cadets
 [color=#afafaf]
 ░█▀▀█░
 ░▀▀▄░░  [head=3] 3) CRIMINALS [color=orange] MIDDLE PRIORITY[/color][/head]
-░█▄▄█░[/color]
+░█▄▄█░[/color] Restrained > Uncooperative
 [color=green]
 ░▄██▄░ 
 ░█░░█░ [head=3] 4) CREW [color=green] LOW PRIORITY[/color][/head]
-░█▀▀█░[/color]
+░█▀▀█░[/color] Mimes > Other Crew > Greytiders> Clowns
 
-[italic] Triage is deliberate → wait your turn [/italic]
 
 ──────────────────────────────────────────
+[color=red]
 ██░░██ 
 ▀████▀ [head=1]CALM SAVES LIVES[/head]
 ░▀██▀░[/color]       
