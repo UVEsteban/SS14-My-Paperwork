@@ -1,0 +1,109 @@
+[mono]
+[color=#5b97bc]░░██░░ [head=2]Medical Registry[/head]
+██████ [head=3]Patien: Ciro Voskoville malet  [/head]
+░░██░░ [head=3]From: Nanotrasen Medical Oversight Bureau[/head]
+[/color]──────────────────────────────────────────
+
+[color=red][head=1]TRAUMA CHART[/head][/color]
+
+[head=2]NEUROLOGICAL[/head]
+STATUS: PERMANENT SPEECH IMPAIRMENT
+┌───────────────────────────┐
+│       █████   █████       │
+│      █░░░░░█ █░░░░░█      │ [bold][color=red]LOCALIZED[/color][/bold]
+│      █░░█░░░█░░░░████     │ [bold][color=red]CORTICAL INJURY[/color][/bold]
+│     ████░░░░█░░░█░░░██    │ [bold]Site:[/bold] Broca’s area
+│   ███░░░░█░░█░░░█░░░░██   │ [bold]Cause:[/bold] Hypoxia
+│  █░░░░░[color=red]▄ ▄[/color]░░█░░░░█░░░░░█  │ [bold]Deficit:[/bold]Expressive 
+│  █░░░█░░[color=red]█[/color]░░░█░░░░░░█░░░█  │ Aphasia
+│  ████░░[color=red]▀ ▀[/color]███░░░░░░░████  │ [bold]Status:[/bold] Resolved
+│ █░░░░░░░░░░░█░████░░░░░░█ │    [color=red][italic]speech[/italic][/color]
+│█░░░░░░░░██░░█░░░░░█░░░░░░█│  [color=red][italic]impairment[/italic][/color]
+│█░░░░░░░█░░░░█░░░░░░░░░░░░█│    [color=red][italic]persist[/italic][/color]
+│█░░░█░░░█░░░░████░░░░█░░░░█│
+│█░░░░█░░░█░░░█░░░█░░░░█████│ [head=2]Anoxic Event[/head]
+│ █░░░█░░░░░░░█░░░█░░░░░░░█ │ [color=red][bold] CARDIAC ARREST[/bold][/color]
+│  ███░░██░░░░█░░░█░░░█░░█  │ [bold]Duration:[/bold] ~2–3 min
+│  █░░░█░░█░░░█░░█░░░█░░░█  │ [bold]Outcome:[/bold]
+│   ████░░░░░░█░░░░░░░███   │ No diffuse
+│      ██░░░░█ █░░░░██      │ hypoxic brain
+│        ████   ████        │ injury
+└───────────────────────────┘
+
+[head=2] Neurological baseline [/head]
+– [bold]Cognition:[/bold] [color=green]INTACT[/color]
+– [bold]Comprehension:[/bold] [color=green]INTACT[/color]
+– [bold]Memory:[/bold] [color=green]INTACT[/color]
+
+[head=2]TORSO[/head]
+STATUS: RESIDUAL LIMITATION
+┌───────────────────────────┐
+│             ░             │ [bold][color=red]THORACIC[/color][/bold]
+│             ░             │ [bold][color=red]TRAUMA[/color][/bold]
+│     ░░░░░   ░   ░░░░░     │ [bold]Type:[/bold] 
+│    ░░░░░░   ░   ░░░░░░    │ Blunt/Compression
+│   ░░░░░░░░  ░  ░░░░░░░░   │ [bold]Effect:[/bold]
+│  ░░░░░░░░░ ░░░ ░░░[color=red]▄ ▄[/color]░░░  │   Respiratory
+│  ░░░░░░░░░░██ ██░░░[color=red]█[/color]░░░░  │   failuret 
+│  ░░░░░░░░░ █████░░[color=red]▀ ▀[/color]░░░  │  
+│  ░░░░░░░░░  ███░░░░░░░░░  │   Cardiac arres
+│  ░░░░░░░░   ║█ ░░░░░░░░░  │ [bold]Status:[/bold]
+│  ░▓▓▓▓▓▓░▓▓▓║      ░░░░░  │ Rhythm restored
+│  ░▓▓▓▓▓▓▓══ ╝         ░░  │ post-resuscitation
+│   ▓▓▓▓▓╚═══════════╗      │  
+│        ╔═══════════╝      │ [bold]RESIDUAL[/bold][/color]
+│        ╚═══════════╗      │ [bold]LIMITATION[/bold][/color]
+│        ▄    ╔═══▄══╝      │ Reduced tolerance
+│        ██▀▀ ║▀▀██         │ to hypoxic 
+│        ▀    ║   ▀         │ exertion
+│                           │ 
+└───────────────────────────┘
+[head=2]Abdominal organs [/head]
+- No rupture or internal bleeding recorded[/color]
+
+[head=2]Systemic shock [/head]
+- Acute phase resolved[/color]
+- No lasting metabolic dysfunction[/color]
+
+[head=2]LIMBS[/head]
+STATUS: INTACT / FUNCTIONAL
+┌───────────────────────────┐
+│             ░             │ [bold][color=red]SOFT TISSUE[/color][/bold]
+│       ███       ███       │ [bold][color=red]INJURY[/color][/bold]
+│     ████         ████     │ [bold]Type:[/bold] 
+│     ██             ██     │ Difusse Contusions
+│     ██             ██     │ 
+│     ██             ██     │ [color=green]RESOLVED[/color]
+│     ██             ██     │ 
+│     ▄██           ██▄     │  
+│     ▀██           ██▀     │  
+│      ░             ░      │  
+│                           │ 
+│       ██         ██       │   
+│       ██         ██       │ 
+│       ██         ██       │ 
+│       ██         ██       │ 
+│       ██         ██       │ 
+│      ██▀         ▀██      │  
+│   ▄████           ████▄   │
+│                           │
+└───────────────────────────┘
+[head=2] MOTOR FUNCTION [/head]
+- GROSS MOTOR:[/color] [color=green]INTACT[/color]
+- FINE MOTOR:[/color] [color=green]INTACT[/color]
+
+[head=2]ADDITIONAL NOTES[/head]
+
+The patient demonstrates operational aversion to overcommitment and unnecessary haste during emergency situations, secondary to a documented post-traumatic medical event. This response is adaptive rather than debilitating and does not impair task execution or decision-making.
+
+Observed and recommended constraints include:
+– Avoidance of open liquid containers and syringe-based administration when sealed alternatives are available
+
+– Minimization of panic-inducing stimuli, including chaotic verbal escalation
+
+– Restriction from sprinting or rushed movement during active response unless explicitly required
+
+[bold]Clinical assessment indicates:[/bold]
+
+• Medical clearance: Fit for duty
+• Monitoring requirement: Ongoing psychological and physical evaluation recommended for long-term operational stability
