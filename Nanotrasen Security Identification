@@ -1,7 +1,7 @@
 [mono]
 ┌────────────────────────────────────┐
-│[color=#cb0000] ░█▄▄█░ [bold]NANOTRASEN[/head][/color][/bold]                  │
-│[color=#cb0000] ██▄▄██ SECURITY IDENTIFICATION [/head][/color]    │
+│[color=#cb0000] ░█▄▄█░ NANOTRASEN[/color]                │
+│[color=#cb0000] ██▄▄██ SECURITY IDENTIFICATION [/color]    │
 │[color=#cb0000] ▀█▄▄█▀ ID: 40262712[/color]                │
 ├────────────────────────────────────┤
 │              [color=#000000]█   █                 │
@@ -17,17 +17,17 @@
 │           [color=#111111]█[/color][color=#1c1c1c]██[/color]█████[color=#1c1c1c]██[/color][color=#111111]█[/color]              │
 │          [color=#111111]█[/color][color=#1c1c1c]███[/color]█████[color=#1c1c1c]███[/color][color=#111111]█             │
 ├────────────────────────────────────┤
-│ [bold]NAME:[/bold] Ciro Voskoville Malet        │
-│ [bold]ROLE:[/bold] Corpsman                     │
-│ [bold]DEPARTMENT:[/bold] Security               │
+│ NAME: Ciro Voskoville Malet        │
+│ ROLE: Corpsman                     │
+│ DEPARTMENT:[/bold] Security               │
 │                                    │
-│ [bold]WORK AREA:[/bold] Brig Medical            │
-│ [bold]TRAINING:[/bold] Medical (Cross-Trained)  │
+│ WORK AREA: Brig Medical            │
+│ TRAINING: Medical (Cross-Trained)  │
 ├──────────────────────────────────┐─┘
-│ [bold]CLEARANCE:[/bold]                       │
+│      CLEARANCE:                  │
 │                    - Security    │ [/mono][check][mono]
 │                    -  [bold]Mindshield[/bold] │ [/mono][check][mono]
-│                    - Brig Medical│ [check] [/mono][check][mono]
+│                    - Brig Medical│ [/mono][check][mono]
 ├──────────────────────────────────┘─┐
 │ CHAIN OF COMMAND:                  │
 │ Reports to Head of Security        │
