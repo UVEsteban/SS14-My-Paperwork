@@ -25,12 +25,18 @@ DEPARTMENT:[/bold] Security
 WORK AREA: Brig Medical
 TRAINING: Medical (Cross-Trained)
 
-CLEARANCE:
-- Security  [/mono][check][mono]
--  [bold]Mindshield[/bold]  [/mono][check][mono]
-- Brig Medical  [/mono][check][mono]
+[head=3]CLEARANCE:[/head]
 
-CHAIN OF COMMAND:
+- Security [bold]Mindshield[/bold]  [/mono][check][mono]
+
+- Brig Medical     [/mono][check][mono]
+
+- Medical          [/mono][check][mono]
+
+- Chemist          [/mono][check][mono]
+
+
+[head=3]CHAIN OF COMMAND:[/head]
 Reports to Head of Security
 
 Coordinates with
