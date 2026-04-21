@@ -42,7 +42,7 @@ STATUS: RESIDUAL LIMITATION
 │             ░             │ [bold][color=red]THORACIC[/color][/bold]
 │             ░             │ [bold][color=red]TRAUMA[/color][/bold]
 │     ░░░░░   ░   ░░░░░     │ [bold]Type:[/bold] 
-│    ░░░░░░   ░   ░░░░░░    │ Blunt/Compression
+│    ░░░░░░   ░   ░░░░░░    │ Blunt
 │   ░░░░░░░░  ░  ░░░░░░░░   │ [bold]Effect:[/bold]
 │  ░░░░░░░░░ ░░░ ░░░[color=red]▄ ▄[/color]░░░  │   Respiratory
 │  ░░░░░░░░░░██ ██░░░[color=red]█[/color]░░░░  │   failuret 
@@ -50,14 +50,14 @@ STATUS: RESIDUAL LIMITATION
 │  ░░░░░░░░░  ███░░░░░░░░░  │   Cardiac arres
 │  ░░░░░░░░   ║█ ░░░░░░░░░  │ [bold]Status:[/bold]
 │  ░▓▓▓▓▓▓░▓▓▓║      ░░░░░  │ Rhythm restored
-│  ░▓▓▓▓▓▓▓══ ╝         ░░  │ post-resuscitation
-│   ▓▓▓▓▓╚═══════════╗      │  
+│  ░▓▓▓▓▓▓▓══ ╝         ░░  │ post
+│   ▓▓▓▓▓╚═══════════╗      │ resuscitation
 │        ╔═══════════╝      │ [bold]RESIDUAL[/bold]
 │        ╚═══════════╗      │ [bold]LIMITATION[/bold]
-│        ▄    ╔═══▄══╝      │ Reduced tolerance
-│        ██▀▀ ║▀▀██         │ to hypoxic 
-│        ▀    ║   ▀         │ exertion
-│                           │ 
+│        ▄    ╔═══▄══╝      │ Reduced 
+│        ██▀▀ ║▀▀██         │ tolerance
+│        ▀    ║   ▀         │ to hypoxic
+│                           │ exertion
 └───────────────────────────┘
 [head=2]Abdominal organs [/head]
 - No rupture or internal bleeding recorded
@@ -72,8 +72,8 @@ STATUS: INTACT / FUNCTIONAL
 │             ░             │ [bold][color=red]SOFT TISSUE[/color][/bold]
 │       ███       ███       │ [bold][color=red]INJURY[/color][/bold]
 │     ████         ████     │ [bold]Type:[/bold] 
-│     ██             ██     │ Difusse Contusions
-│     ██             ██     │ 
+│     ██             ██     │ Difusse 
+│     ██             ██     │ Contusions
 │     ██             ██     │ [color=green]RESOLVED[/color]
 │     ██             ██     │ 
 │     ▄██           ██▄     │  
