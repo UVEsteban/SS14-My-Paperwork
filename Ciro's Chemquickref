@@ -6,24 +6,13 @@
 █ █████ █ [/color][bolditalic] by Ciro Voskoville Malet[/bolditalic][color=lightblue]
 ██     ██ [/color][italic] Ciro V. M. - The Mute Corpsman [/italic][color=lightblue]
  ███████ [/color]
-╔═════════════ [color=#00e5ff]TRICO[/color] ══════════════╗
-║[color=green]TREATS[/color]    Baby Boo Boos           ║
-║[color=black]DOSE[/color]      N.A.                    ║
-║[color=orange]TEMP[/color]      ROOM TEMP               ║
-║[color=purple]PLASMA[/color]    NONE                    ║
-║[color=red]WARNING[/color]   Use it like candy       ║
-║┌────────── RECIPE ────────────┐  ║
-║│ Beaker   25u                 │  ║
-║│ [color=#731024]INA:[/color] OXI(1) SUG(1) CAR(1)    │  ║
-║│ [color=#3a1d8a]DYLO:[/color] SIL(1) NIT(1) POT(1)   │  ║
-║└──────────────────────────────┘  ║
-╚══════════════════════════════════╝
+
+[color=lightblue]░░██░░                            ░░██░░
+██████ ▬▬▬▬▬ AIR & BLOODLOSS ▬▬▬▬ ██████
+░░██░░                            ░░██░░[/color]
 ╔═════════════ [color=#4da0bd]DEX+[/color] ═══════════════╗
-║[color=green]TREATS[/color]    Airloss + Bloodloss     ║
-║[color=black]DOSE[/color]      25u                     ║
-║[color=orange]TEMP[/color]      ROOM TEMP               ║
+║[color=green]TREATS[/color]    Airloss+Bloodloss  [color=black]25u[/color]  ║
 ║[color=purple]PLASMA    ▼P[/color]                      ║
-║[color=red]WARNING[/color]   DON'T BIRD              ║
 ║┌────────── RECIPE ────────────┐  ║
 ║│ Beaker   50u                 │  ║
 ║│ OX(1)                        │  ║
@@ -31,32 +20,32 @@
 ║└──────────────────────────────┘  ║
 ╚══════════════════════════════════╝
 ╔═════════════ [color=#51c38c]AMOXLA[/color] ═════════════╗
-║[color=green]TREATS[/color]    Airloss + Bloodloss     ║
-║[color=black]DOSE[/color]      25u                     ║
+║[color=green]TREATS[/color]    Airloss+Bloodloss  [color=black]25u[/color]  ║
 ║[color=orange]TEMP[/color]      541K                    ║
-║[color=purple]PLASMA[/color]    NONE                    ║
-║[color=red]WARNING[/color]                           ║
-║┌──────── AMMONIA ────────────┐   ║
-║│ Beaker   30u                │   ║
-║│ HYD(3)                      │   ║
-║│ NIT(1)                      │   ║
+║┌──────── AMMONIA 30u ────────┐   ║
+║│ HYD(3) NIT(1)               │   ║
 ║└─────────────────────────────┘   ║
-║┌──────── FINAL MIX ──────────┐   ║
-║│ Beaker   50u                │   ║
-║│ AMMONIA(1)                  │   ║
-║│ CAR(1)                      │   ║
-║│ IRO(1)                      │   ║
+║┌──────── FINAL MIX 50u ──────┐   ║
+║│ AMMONIA(1) CAR(1) IRO(1)    │   ║
 ║└─────────────────────────────┘   ║
 ╚══════════════════════════════════╝
-
+╔══════════ [color=#a2cfca]EPINEPHRINE[/color] ═══════════╗
+║[color=green]TREATS[/color]    Critical Patients  [color=black]19u[/color]  ║
+║[color=orange]TEMP[/color]      370K                    ║
+║┌─── PHENOL 25u ─┐┌─ ACETO 15u ──┐║
+║│ OXI(1) HYD(3)  ││ WF(4)  HYD(1)│║
+║│ CAR(2)         ││ CAR(1) OXI(3)│║
+║└────────────────┘└──────────────┘║
+║┌─────── FINAL MIX 15u ──────────┐║
+║│ PHE(2) ACE(2) CHL(2) OXI(1)    │║
+║│ HYD(1)                         │║
+║└────────────────────────────────┘║
+╚══════════════════════════════════╝
 [color=pink]░░██░░                            ░░██░░
 ██████ ▬▬▬▬▬ BRUTE MEDICINE ▬▬▬▬▬ ██████
 ░░██░░                            ░░██░░[/color]
 ╔═════════════ [color=#ffaa00]BICAR[/color] ══════════════╗
-║[color=green]TREATS[/color]    Brute Damage            ║
-║[color=black]DOSE[/color]      15u                     ║
-║[color=orange]TEMP[/color]      ROOM TEMP               ║
-║[color=purple]PLASMA[/color]    NONE                    ║
+║[color=green]TREATS[/color]    Brute Damage       [color=black]15u[/color]  ║
 ║[color=red]WARNING[/color]   Don't advance Brute     ║
 ║┌────────── RECIPE ────────────┐  ║
 ║│ Beaker   25u                 │  ║
@@ -64,55 +53,34 @@
 ║└──────────────────────────────┘  ║
 ╚══════════════════════════════════╝
 ╔═════════════ [color=#ff3636]BRUIZ[/color] ══════════════╗
-║[color=green]TREATS[/color]    Blunt Damage            ║
-║[color=black]DOSE[/color]      10u                     ║
-║[color=orange]TEMP[/color]      ROOM TEMP               ║
-║[color=purple]PLASMA[/color]    NONE                    ║
+║[color=green]TREATS[/color]    Blunt Damage       [color=black]10u[/color]  ║
 ║[color=red]WARNING[/color]   Don't mix with Brutes   ║
 ║┌────────── RECIPE ────────────┐  ║
-║│ Beaker   45u                 │  ║
-║│ LIT(1)                       │  ║
-║├──────────────────────────────┤  ║
-║│ Beaker   50u                 │  ║
-║│ SUG(1) BICAR(1)              │  ║
+║│ Beaker 45u: LIT(1)           │  ║
+║│ Beaker 50u: SUG(1) BICAR(1)  │  ║
 ║└──────────────────────────────┘  ║
 ╚══════════════════════════════════╝
 ╔═════════════ [color=#283332]LACER[/color] ══════════════╗
-║[color=green]TREATS[/color]    Slash Damage            ║
-║[color=black]DOSE[/color]      11u                     ║
-║[color=orange]TEMP[/color]      ROOM TEMP               ║
-║[color=purple]PLASMA[/color]    NONE                    ║
+║[color=green]TREATS[/color]    Slash Damage       [color=black]11u[/color]  ║
 ║[color=red]WARNING[/color]   Don't Other Brutes      ║
 ║┌────────── RECIPE ────────────┐  ║
-║│ Beaker   50u                 │  ║
-║│ CAR(1) HYD(1)                │  ║
-║├──────────────────────────────┤  ║
-║│ Beaker   50u                 │  ║
-║│ BICAR(1)                     │  ║
+║│ Beaker 50u: CAR(1) HYD(1)    │  ║
+║│ Beaker 50u: BICAR(1)         │  ║
 ║└──────────────────────────────┘  ║
 ╚══════════════════════════════════╝
 ╔═════════════ [color=#b9bf93]PUNCT[/color] ══════════════╗
-║[color=green]TREATS[/color]    Piercing Damage         ║
-║[color=black]DOSE[/color]      11u                     ║
-║[color=orange]TEMP[/color]      ROOM TEMP               ║
-║[color=purple]PLASMA[/color]    NONE                    ║
+║[color=green]TREATS[/color]    Piercing Damage    [color=black]11u[/color]  ║
 ║[color=red]WARNING[/color]   Don't Other Brutes      ║
 ║┌────────── RECIPE ────────────┐  ║
 ║│ Beaker   50u                 │  ║
-║│ OXI(1) HYD(1)                │  ║
-║│ BICAR(1)                     │  ║
+║│ OXI(1) HYD(1) BICAR(1)       │  ║
 ║└──────────────────────────────┘  ║
 ╚══════════════════════════════════╝
-
-[color=orange]░░██░░                            ░░██░░
+[color=orange]░░██░░                           ░░██░░
 ██████ ▬▬▬▬▬ BURN MEDICINE ▬▬▬▬▬ ██████
-░░██░░                            ░░██░░[/color]
+░░██░░                           ░░██░░[/color]
 ╔═════════════ [color=#215263]DERMA[/color] ══════════════╗
-║[color=green]TREATS[/color]    Burn Damage             ║
-║[color=black]DOSE[/color]      10u                     ║
-║[color=orange]TEMP[/color]      ROOM TEMP               ║
-║[color=purple]PLASMA[/color]    NONE                    ║
-║[color=red]WARNING[/color]   NONE                    ║
+║[color=green]TREATS[/color]    Burn Damage        [color=black]10u[/color]  ║
 ║┌────────── RECIPE ────────────┐  ║
 ║│ Beaker   25u                 │  ║
 ║│ KELOTANE:SIL(1) CAR(1)       │  ║
@@ -121,70 +89,48 @@
 ╚══════════════════════════════════╝
 ╔═════════════ [color=#ff7db5]LEPO[/color] ═══════════════╗
 ║[color=green]TREATS[/color]    Cold Damage             ║
-║[color=black]DOSE[/color]      N.A.                    ║
-║[color=orange]TEMP[/color]      310K                    ║
-║[color=purple]PLASMA    ▼P[/color]                      ║
-║[color=red]WARNING[/color]   NONE                    ║
+║[color=orange]TEMP[/color]      310K  [color=purple]PLASMA    ▼P[/color]      ║
 ║┌────────── RECIPE ────────────┐  ║
 ║│ Beaker   25u                 │  ║
 ║│ IRO(1) SIL(1) [color=purple]▲P[/color] COP(2)      │  ║
 ║└──────────────────────────────┘  ║
 ╚══════════════════════════════════╝
 ╔═════════════ [color=#aa4308]PYRA[/color] ═══════════════╗
-║[color=green]TREATS[/color]    Heat Damage             ║
-║[color=black]DOSE[/color]      15u                     ║
+║[color=green]TREATS[/color]    Heat Damage        [color=black]15u[/color]  ║
 ║[color=orange]TEMP[/color]      450K                    ║
-║[color=purple]PLASMA[/color]    NONE                    ║
-║[color=red]WARNING[/color]   CHECK BODY TEMP FIRST   ║
 ║┌────────── RECIPE ────────────┐  ║
 ║│ Beaker   50u                 │  ║
-║│ CAR(1)                       │  ║
-║│ DERMA(1) LEPO(1)             │  ║
+║│ CAR(1) DERMA(1) LEPO(1)      │  ║
 ║└──────────────────────────────┘  ║
 ╚══════════════════════════════════╝
 ╔═════════════ [color=#8147ff]INSU[/color] ═══════════════╗
-║[color=green]TREATS[/color]    Shock                   ║
-║[color=black]DOSE[/color]      12u                     ║
-║[color=orange]TEMP[/color]      ROOM TEMP               ║
-║[color=purple]PLASMA[/color]    NONE                    ║
-║[color=red]WARNING[/color]   NONE                    ║
+║[color=green]TREATS[/color]    Shock              [color=black]12u[/color]  ║
 ║┌────────── RECIPE ────────────┐  ║
 ║│ Beaker   25u                 │  ║
-║│ CAR(1) SIL(3)                │  ║
-║│ LEPO(2)                      │  ║
+║│ CAR(1) SIL(3) LEPO(2)        │  ║
 ║└──────────────────────────────┘  ║
 ╚══════════════════════════════════╝
 ╔══════════════ [color=#aa4308]SYGI[/color] ══════════════╗
-║[color=green]TREATS[/color]    Caustic Damage          ║
-║[color=black]DOSE[/color]      15u                     ║
+║[color=green]TREATS[/color]    Caustic Damage     [color=black]15u[/color]  ║
 ║[color=orange]TEMP[/color]      450K                    ║
-║[color=purple]PLASMA[/color]    NONE                    ║
-║[color=red]WARNING[/color]   Multi-stage Synthesis   ║
-║┌───── SODIUM CARBONATE ───────┐  ║
-║│ Beaker   5u                  │  ║
+║┌───── SODCAR 5u ──────────────┐  ║
 ║│ HYD(3) NIT(1) CHL(2)         │  ║
 ║│ SOD(2) CAR(4) OXI(4)         │  ║
 ║└──────────────────────────────┘  ║
-║┌───── SODIUM HYDROXIDE ───────┐  ║
-║│ Beaker   20u                 │  ║
+║┌───── SODHYD 20u ─────────────┐  ║
 ║│ HYD(1) OXI(1) SOD(2)         │  ║
 ║└──────────────────────────────┘  ║
-║┌───────── FINAL MIX ──────────┐  ║
-║│ Beaker   15u                 │  ║
+║┌───── FINAL MIX 15u ──────────┐  ║
 ║│ SODCAR(2) SODHYD(2)          │  ║
 ║│ SYL(1) CAR(1)                │  ║
 ║│ SUG(2) WATER(2)              │  ║
 ║└──────────────────────────────┘  ║
 ╚══════════════════════════════════╝
 [color=purple]░░██░░                            ░░██░░
-██████ [/color]▬▬▬▬▬ [/color]OTHER MEDICINE[color=purple] ▬▬▬▬▬ ██████
+██████ ▬▬▬▬▬ TOXIC AND RADS ▬▬▬▬▬ ██████
 ░░██░░                            ░░██░░[/color]
-
 ╔═════════════ [color=#3a1d8a]DYLO[/color] ═══════════════╗
-║[color=green]TREATS[/color]    Poison                  ║
-║[color=black]DOSE[/color]      20u                     ║
-║[color=orange]TEMP[/color]      ROOM TEMP               ║
-║[color=purple]PLASMA[/color]    NONE                    ║
+║[color=green]TREATS[/color]    Poison             [color=black]20u[/color]  ║
 ║[color=red]WARNING[/color]   Don't use with INA      ║
 ║┌────────── RECIPE ────────────┐  ║
 ║│ Beaker   50u                 │  ║
@@ -193,30 +139,20 @@
 ╚══════════════════════════════════╝
 ╔══════════════ [color=#2596be]DIPH[/color] ══════════════╗
 ║[color=green]TREATS[/color]    Poison                  ║
-║[color=black]DOSE[/color]      N.A.                    ║
 ║[color=orange]TEMP[/color]      450K                    ║
-║[color=purple]PLASMA[/color]    NONE                    ║
-║[color=red]WARNING[/color]                           ║
-║┌───────────── OIL ────────────┐  ║
-║│ Beaker   30u                 │  ║
+║┌───── OIL 30u ────────────────┐  ║
 ║│ WF(1) HYD(1) CAR(1)          │  ║
 ║└──────────────────────────────┘  ║
-║┌─────────── DYETHIL ──────────┐  ║
-║│ Beaker   20u                 │  ║
+║┌───── DYETHIL 20u ────────────┐  ║
 ║│ NIT(1) HYD(3) ETH(4)         │  ║
 ║└──────────────────────────────┘  ║
-║┌───────── FINAL MIX ──────────┐  ║
-║│ Beaker   15u                 │  ║
+║┌───── FINAL MIX 15u ──────────┐  ║
 ║│ OIL(2) DYETH(2)              │  ║
-║│ CAR(2) ETH(2)                │  ║
-║│ SOD(1) CHL                   │  ║
+║│ CAR(2) ETH(2) SOD(1) CHL     │  ║
 ║└──────────────────────────────┘  ║
 ╚══════════════════════════════════╝
 ╔═════════════ [color=#c8ff75]PHALANX[/color] ════════════╗
 ║[color=green]TREATS[/color]    Genetic Damage          ║
-║[color=black]DOSE[/color]      N.A.                    ║
-║[color=orange]TEMP[/color]      ROOM TEMP               ║
-║[color=purple]PLASMA[/color]    NONE                    ║
 ║[color=red]WARNING   RADIATION[/color]               ║
 ║┌────────── RECIPE ────────────┐  ║
 ║│ Beaker   5u                  │  ║
@@ -227,44 +163,9 @@
 ╚══════════════════════════════════╝
 ╔═════════════ [color=#bd5902]ARITH[/color] ══════════════╗
 ║[color=green]TREATS[/color]    Radiation + Brute       ║
-║[color=black]DOSE[/color]      N.A.                    ║
-║[color=orange]TEMP[/color]      ROOM TEMP               ║
-║[color=purple]PLASMA[/color]    NONE                    ║
-║[color=red]WARNING[/color]   Brute + Open Wounds     ║
 ║┌────────── RECIPE ────────────┐  ║
 ║│ Beaker   10u                 │  ║
 ║│ SIL(1) NIT(1) POT(1)         │  ║
 ║│ RAD(3) HYD(6)                │  ║
 ║└──────────────────────────────┘  ║
 ╚══════════════════════════════════╝
-╔═════════════ [color=#404040]OCULINE[/color] ════════════╗
-║[color=green]TREATS[/color]    Blindness               ║
-║[color=black]DOSE[/color]      N.A.                    ║
-║[color=orange]TEMP[/color]      ROOM TEMP               ║
-║[color=purple]PLASMA[/color]    NONE                    ║
-║[color=red]WARNING[/color]   NONE                    ║
-║┌────────── RECIPE ────────────┐  ║
-║│ Beaker   30u                 │  ║
-║│ OXI(1) HYD(1)                │  ║
-║│ BLOOD(1)                     │  ║
-║│ TABLE SALT(1)                │  ║
-║└──────────────────────────────┘  ║
-╚══════════════════════════════════╝
-╔══════════ [color=#a2cfca]EPINEPHRINE[/color] ═══════════╗
-║[color=green]TREATS[/color]    Critical Patients       ║
-║[color=black]DOSE[/color]      19u                     ║
-║[color=orange]TEMP[/color]      370K                    ║
-║[color=purple]PLASMA[/color]    NONE                    ║
-║[color=red]WARNING[/color]   NONE                    ║
-║┌──── PHENOL ───┐┌──── ACETO ────┐║
-║│ Beaker    25u ││ Beaker   15u  │║
-║│ OXI(1) HYD(3) ││ WF(4)  HYD(1) │║
-║│ CAR(2)        ││ CAR(1) OXI(3) │║
-║└───────────────┘└───────────────┘║
-║┌─────── FINAL MIX ──────────────┐║
-║│ Beaker │ 15u                   │║
-║│ PHE(2)  ACE(2) - CHL(2)  OXI(1 │║
-║│ HYD(1)                         │║
-║└────────────────────────────────┘║
-╚══════════════════════════════════╝
-
