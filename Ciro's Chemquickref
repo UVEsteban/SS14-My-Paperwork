@@ -6,40 +6,6 @@
 █ █████ █ [/color][bolditalic] by Ciro Voskoville Malet[/bolditalic][color=lightblue]
 ██     ██ [/color][italic] Ciro V. M. - The Mute Corpsman [/italic][color=lightblue]
  ███████ [/color]
-[color=red][italic] This reference guide is meant to work on 150u beakers, if you don't have one available just follow the proportions and ignore the beaker unit recommendations[/italic][/color]
-╔═════════════ [color=#731024]INAPROV[/color] ════════════╗
-║[color=green]TREATS[/color]    Critical Airloss        ║
-║[color=black]DOSE[/color]      N.A.                    ║
-║[color=orange]TEMP[/color]      ROOM TEMP               ║
-║[color=purple]PLASMA[/color]    NONE                    ║
-║[color=red]WARNING[/color]   Don't use with DYLO     ║
-║┌────────── RECIPE ────────────┐  ║
-║│ Beaker   50u                 │  ║
-║│ OXI(1)  SUG(1)  CAR(1)       │  ║
-║└──────────────────────────────┘  ║
-╚══════════════════════════════════╝
-╔═════════════ [color=#ffaa00]BICAR[/color] ══════════════╗
-║[color=green]TREATS[/color]    Brute Damage            ║
-║[color=black]DOSE[/color]      15u                     ║
-║[color=orange]TEMP[/color]      ROOM TEMP               ║
-║[color=purple]PLASMA[/color]    NONE                    ║
-║[color=red]WARNING[/color]   Don't advance Brute     ║
-║┌────────── RECIPE ────────────┐  ║
-║│ Beaker   25u                 │  ║
-║│ OXI(1)  SUG(1)  CAR(4)       │  ║
-║└──────────────────────────────┘  ║
-╚══════════════════════════════════╝
-╔═════════════ [color=#3a1d8a]DYLO[/color] ═══════════════╗
-║[color=green]TREATS[/color]    Poison                  ║
-║[color=black]DOSE[/color]      20u                     ║
-║[color=orange]TEMP[/color]      ROOM TEMP               ║
-║[color=purple]PLASMA[/color]    NONE                    ║
-║[color=red]WARNING[/color]   Don't use with INA      ║
-║┌────────── RECIPE ────────────┐  ║
-║│ Beaker   50u                 │  ║
-║│ SIL(1) NIT(1) POT(1)         │  ║
-║└──────────────────────────────┘  ║
-╚══════════════════════════════════╝
 ╔═════════════ [color=#00e5ff]TRICO[/color] ══════════════╗
 ║[color=green]TREATS[/color]    Baby Boo Boos           ║
 ║[color=black]DOSE[/color]      N.A.                    ║
@@ -86,6 +52,17 @@
 [color=pink]░░██░░                            ░░██░░
 ██████ ▬▬▬▬▬ BRUTE MEDICINE ▬▬▬▬▬ ██████
 ░░██░░                            ░░██░░[/color]
+╔═════════════ [color=#ffaa00]BICAR[/color] ══════════════╗
+║[color=green]TREATS[/color]    Brute Damage            ║
+║[color=black]DOSE[/color]      15u                     ║
+║[color=orange]TEMP[/color]      ROOM TEMP               ║
+║[color=purple]PLASMA[/color]    NONE                    ║
+║[color=red]WARNING[/color]   Don't advance Brute     ║
+║┌────────── RECIPE ────────────┐  ║
+║│ Beaker   25u                 │  ║
+║│ OXI(1)  SUG(1)  CAR(4)       │  ║
+║└──────────────────────────────┘  ║
+╚══════════════════════════════════╝
 ╔═════════════ [color=#ff3636]BRUIZ[/color] ══════════════╗
 ║[color=green]TREATS[/color]    Blunt Damage            ║
 ║[color=black]DOSE[/color]      10u                     ║
@@ -203,6 +180,17 @@
 ██████ [/color]▬▬▬▬▬ [/color]OTHER MEDICINE[color=purple] ▬▬▬▬▬ ██████
 ░░██░░                            ░░██░░[/color]
 
+╔═════════════ [color=#3a1d8a]DYLO[/color] ═══════════════╗
+║[color=green]TREATS[/color]    Poison                  ║
+║[color=black]DOSE[/color]      20u                     ║
+║[color=orange]TEMP[/color]      ROOM TEMP               ║
+║[color=purple]PLASMA[/color]    NONE                    ║
+║[color=red]WARNING[/color]   Don't use with INA      ║
+║┌────────── RECIPE ────────────┐  ║
+║│ Beaker   50u                 │  ║
+║│ SIL(1) NIT(1) POT(1)         │  ║
+║└──────────────────────────────┘  ║
+╚══════════════════════════════════╝
 ╔══════════════ [color=#2596be]DIPH[/color] ══════════════╗
 ║[color=green]TREATS[/color]    Poison                  ║
 ║[color=black]DOSE[/color]      N.A.                    ║
