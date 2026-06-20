@@ -1,0 +1,29 @@
+[mono]
+
+        ▄▄▄▄▄             
+   ▄▀▀▄▀    ▐▄            
+       █     ▐            
+          ▄███▄           
+   ▄▀▀▀▀▀███████▀▀▀▀▀▀█▀▌ 
+ ▄█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▀ ▄▐ 
+█  ▄▄               █ ▐▐▐ 
+█ ████   ▄▄▄        █ ▐▐▐ 
+█  ▀▀    ▒▒▒        █ ▐ ▌ 
+█     █▒▒▒▒▒▒▒█     █ ▐▄▀▌
+█        ▒▒▒        █ ▀▄▀ 
+█        ▀▀▀        █▀▀   
+ █▀█▀▀▀▀▀▀▀▀▀▀▀▀▀█▀█      
+  ▀               ▀         
+  ▀               ▀       
+[head=1]A note on medibots in Brigmed:[/head]
+
+Medibots dispense [color=#00e5ff]TRICORDRAZINE[/color] under 50 damage and [color=#731024]INAPROVALINE[/color]  in [color=red]CRITICAL[/color] patients both useful in isolation. The issue is [color=#3a1d8a]DYLOVINE[/color].
+
+When a patient has poison damage, I need [color=#3a1d8a]DYLOVINE[/color] to treat it. [color=#3a1d8a]DYLOVINE[/color] and [color=#731024]INAPROVALINE[/color] react into [color=#00e5ff]TRICORDRAZINE[/color], which does not treat poison. On a critical patient with active poison damage, a medibot's [color=#731024]INAPROVALINE[/color] will neutralize the [color=#3a1d8a]DYLOVINE[/color] before it can work and poison damage cannot be treated topically, so we are now racing against a clock we didn't need to start.
+
+I would rather spend the extra seconds dosing manually than untangle that mid-emergency. Medibots belong in Medbay or low-risk areas.
+
+Not here.
+
+- Ciro.V.M.
+[/color][/italic]
