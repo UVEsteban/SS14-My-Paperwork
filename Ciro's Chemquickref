@@ -4,18 +4,35 @@
 ███   ███ [/color][head=2] Walk, Don't Spill[/head][color=lightblue]
 ██  █  ██ [/color][head=3] Chemical quickreference[/head][color=lightblue]
 █ █████ █ [/color][bolditalic] by Ciro Voskoville Malet[/bolditalic][color=lightblue]
-██     ██ [/color][italic] Ciro V. M. - The Mute Corpsman [/italic][color=lightblue]
+██     ██ [/color][italic] The Mute One [/italic][color=lightblue]
  ███████ [/color]
+[italic][color=red]
+All recipes in this reference are calibrated for 150u beakers. If working with a different size, scale proportions accordingly.
+[/color][/italic]
+╔═════════════ [color=#00e5ff]TRICO[/color] ══════════════╗
+║[color=green]TREATS[/color]    Baby Boo Boos           ║
+║[color=red]WARNING[/color]   Use it like candy       ║
+║┌────────── RECIPE ────────────┐  ║
+║│ Beaker   25u                 │  ║
+║│ [color=#731024]INA:[/color] OXI(1) SUG(1) CAR(1)    │  ║
+║│ [color=#3a1d8a]DYLO:[/color] SIL(1) NIT(1) POT(1)   │  ║
+║└──────────────────────────────┘  ║
+╚══════════════════════════════════╝
 
 [color=lightblue]░░██░░                            ░░██░░
 ██████ ▬▬▬▬▬ AIR & BLOODLOSS ▬▬▬▬ ██████
 ░░██░░                            ░░██░░[/color]
+╔═════════════ [color=#731024]INAPROV[/color] ════════════╗
+║[color=green]TREATS[/color]    Critical Airloss        ║
+║[color=red]WARNING[/color]   Don't use with DYLO     ║
+║  50u: OXI(1) SUG(1) CAR(1)       ║
+╚══════════════════════════════════╝
 ╔═════════════ [color=#4da0bd]DEX+[/color] ═══════════════╗
 ║[color=green]TREATS[/color]    Airloss+Bloodloss  [color=black]25u[/color]  ║
-║[color=purple]PLASMA    ▼P[/color]                      ║
+║[color=red]WARNING[/color]   DON'T BIRD              ║
 ║┌────────── RECIPE ────────────┐  ║
 ║│ Beaker   50u                 │  ║
-║│ OX(1)                        │  ║
+║│ OX(1) [color=purple]▼P[/color]                     │  ║
 ║│ CAR(1) IRO(1) [color=purple]▲P[/color]             │  ║
 ║└──────────────────────────────┘  ║
 ╚══════════════════════════════════╝
@@ -47,14 +64,11 @@
 ╔═════════════ [color=#ffaa00]BICAR[/color] ══════════════╗
 ║[color=green]TREATS[/color]    Brute Damage       [color=black]15u[/color]  ║
 ║[color=red]WARNING[/color]   Don't advance Brute     ║
-║┌────────── RECIPE ────────────┐  ║
-║│ Beaker   25u                 │  ║
-║│ OXI(1)  SUG(1)  CAR(4)       │  ║
-║└──────────────────────────────┘  ║
+║  25u: OXI(1) SUG(1) CAR(4)       ║
 ╚══════════════════════════════════╝
 ╔═════════════ [color=#ff3636]BRUIZ[/color] ══════════════╗
 ║[color=green]TREATS[/color]    Blunt Damage       [color=black]10u[/color]  ║
-║[color=red]WARNING[/color]   Don't mix with Brutes   ║
+║[color=red]WARNING[/color]   Don't Other Brutes      ║
 ║┌────────── RECIPE ────────────┐  ║
 ║│ Beaker 45u: LIT(1)           │  ║
 ║│ Beaker 50u: SUG(1) BICAR(1)  │  ║
@@ -71,44 +85,33 @@
 ╔═════════════ [color=#b9bf93]PUNCT[/color] ══════════════╗
 ║[color=green]TREATS[/color]    Piercing Damage    [color=black]11u[/color]  ║
 ║[color=red]WARNING[/color]   Don't Other Brutes      ║
-║┌────────── RECIPE ────────────┐  ║
-║│ Beaker   50u                 │  ║
-║│ OXI(1) HYD(1) BICAR(1)       │  ║
-║└──────────────────────────────┘  ║
+║  50u: OXI(1) HYD(1) BICAR(1)     ║
 ╚══════════════════════════════════╝
 [color=orange]░░██░░                           ░░██░░
 ██████ ▬▬▬▬▬ BURN MEDICINE ▬▬▬▬▬ ██████
 ░░██░░                           ░░██░░[/color]
 ╔═════════════ [color=#215263]DERMA[/color] ══════════════╗
 ║[color=green]TREATS[/color]    Burn Damage        [color=black]10u[/color]  ║
-║┌────────── RECIPE ────────────┐  ║
-║│ Beaker   25u                 │  ║
-║│ KELOTANE:SIL(1) CAR(1)       │  ║
-║│ OXI(2) PHO(2)                │  ║
-║└──────────────────────────────┘  ║
+║  25u: KELOTANE:SIL(1) CAR(1)     ║
+║       OXI(2) PHO(2)              ║
 ╚══════════════════════════════════╝
 ╔═════════════ [color=#ff7db5]LEPO[/color] ═══════════════╗
 ║[color=green]TREATS[/color]    Cold Damage             ║
-║[color=orange]TEMP[/color]      310K  [color=purple]PLASMA    ▼P[/color]      ║
+║[color=orange]TEMP[/color]      310K                    ║
 ║┌────────── RECIPE ────────────┐  ║
 ║│ Beaker   25u                 │  ║
-║│ IRO(1) SIL(1) [color=purple]▲P[/color] COP(2)      │  ║
+║│ IRO(1) SIL(1) [color=purple]▲P[/color] COP(2) [color=purple]▼P[/color] │    ║
 ║└──────────────────────────────┘  ║
 ╚══════════════════════════════════╝
 ╔═════════════ [color=#aa4308]PYRA[/color] ═══════════════╗
 ║[color=green]TREATS[/color]    Heat Damage        [color=black]15u[/color]  ║
 ║[color=orange]TEMP[/color]      450K                    ║
-║┌────────── RECIPE ────────────┐  ║
-║│ Beaker   50u                 │  ║
-║│ CAR(1) DERMA(1) LEPO(1)      │  ║
-║└──────────────────────────────┘  ║
+║[color=red]WARNING[/color]   CHECK BODY TEMP FIRST   ║
+║  50u: CAR(1) DERMA(1) LEPO(1)    ║
 ╚══════════════════════════════════╝
 ╔═════════════ [color=#8147ff]INSU[/color] ═══════════════╗
 ║[color=green]TREATS[/color]    Shock              [color=black]12u[/color]  ║
-║┌────────── RECIPE ────────────┐  ║
-║│ Beaker   25u                 │  ║
-║│ CAR(1) SIL(3) LEPO(2)        │  ║
-║└──────────────────────────────┘  ║
+║  25u: CAR(1) SIL(3) LEPO(2)      ║
 ╚══════════════════════════════════╝
 ╔══════════════ [color=#aa4308]SYGI[/color] ══════════════╗
 ║[color=green]TREATS[/color]    Caustic Damage     [color=black]15u[/color]  ║
@@ -132,10 +135,7 @@
 ╔═════════════ [color=#3a1d8a]DYLO[/color] ═══════════════╗
 ║[color=green]TREATS[/color]    Poison             [color=black]20u[/color]  ║
 ║[color=red]WARNING[/color]   Don't use with INA      ║
-║┌────────── RECIPE ────────────┐  ║
-║│ Beaker   50u                 │  ║
-║│ SIL(1) NIT(1) POT(1)         │  ║
-║└──────────────────────────────┘  ║
+║  50u: SIL(1) NIT(1) POT(1)       ║
 ╚══════════════════════════════════╝
 ╔══════════════ [color=#2596be]DIPH[/color] ══════════════╗
 ║[color=green]TREATS[/color]    Poison                  ║
@@ -163,9 +163,15 @@
 ╚══════════════════════════════════╝
 ╔═════════════ [color=#bd5902]ARITH[/color] ══════════════╗
 ║[color=green]TREATS[/color]    Radiation + Brute       ║
-║┌────────── RECIPE ────────────┐  ║
-║│ Beaker   10u                 │  ║
-║│ SIL(1) NIT(1) POT(1)         │  ║
-║│ RAD(3) HYD(6)                │  ║
-║└──────────────────────────────┘  ║
+║  10u: SIL(1) NIT(1) POT(1)       ║
+║       RAD(3) HYD(6)              ║
 ╚══════════════════════════════════╝
+[color=gray]░░██░░                            ░░██░░
+██████ ▬▬▬▬▬▬▬▬▬ MISC ▬▬▬▬▬▬▬▬▬▬▬ ██████
+░░██░░                            ░░██░░[/color]
+╔═════════════ [color=#404040]OCULINE[/color] ════════════╗
+║[color=green]TREATS[/color]    Blindness               ║
+║  30u: OXI(1) HYD(1)              ║
+║       BLOOD(1) TABLE SALT(1)     ║
+╚══════════════════════════════════╝
+
